@@ -1,0 +1,19 @@
+{
+  "name": "wx-mini-promise",
+  "version": "0.9.0",
+  "description": "wx-mini-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandou/wxMiniPromise.git"
+  },
+  "author": "fernandou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandou/wxMiniPromise/issues"
+  },
+  "homepage": "https://github.com/fernandou/wxMiniPromise#readme"
+}
