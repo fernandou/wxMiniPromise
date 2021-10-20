@@ -1,7 +1,7 @@
 {
   "name": "wx-mini-promise",
-  "version": "0.9.0",
-  "description": "wx-mini-promise",
+  "version": "0.10.0",
+  "description": "weixinMiniProgram promise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/fernandou/wxMiniPromise.git"
   },
+  "keywords": [
+    "weixin","mini","promise"
+  ],
   "author": "fernandou",
   "license": "MIT",
   "bugs": {
