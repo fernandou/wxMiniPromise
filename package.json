@@ -1,7 +1,7 @@
 {
   "name": "wx-mini-promise",
-  "version": "0.10.0",
-  "description": "weixinMiniProgram promise",
+  "version": "1.0.0",
+  "description": "weixinMiniProgram api in common use pack to promise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/fernandou/wxMiniPromise.git"
   },
   "keywords": [
-    "weixin","mini","promise"
+    "weixin","mini","promise","api"
   ],
   "author": "fernandou",
   "license": "MIT",
